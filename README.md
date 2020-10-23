@@ -5,4 +5,4 @@ this is my first repository
 
 # instalation
 
-# progress
+# how to use
